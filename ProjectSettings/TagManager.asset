@@ -6,6 +6,7 @@ TagManager:
   tags:
   - planet
   - gravity_core
+  - player
   layers:
   - Default
   - TransparentFX
